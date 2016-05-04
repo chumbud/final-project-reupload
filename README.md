@@ -1,4 +1,5 @@
 # Game Design Final
+By Peter Rosa
 
 This is a explorable type game made in Unity 5 for my Game Design course at Rutgers.
 
